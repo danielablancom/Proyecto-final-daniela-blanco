@@ -1,0 +1,30 @@
+[
+    {
+        "foto": "paquete1.jpg",
+        "id": 1,
+        "nombre": "Paquete Riviera Maya",
+        "pais": "Mexico",
+        "precio": 12000
+    },
+    {
+        "foto": "paquete2.jpg",
+        "id": 2,
+        "nombre": "Paquete Torres del Paine",
+        "pais": "Chile",
+        "precio": 20000
+    },
+    {
+        "foto": "paquete3.jpg",
+        "id": 3,
+        "nombre": "Paquete Santa Marta, Barranquilla, Cartagena",
+        "pais": "Colombia",
+        "precio": 15000
+    },
+    {
+        "foto": "paquete4.jpg",
+        "id": 4,
+        "nombre": "Paquete Buenos Aires",
+        "pais": "Argentina",
+        "precio": 18000
+    }
+]
